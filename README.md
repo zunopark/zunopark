@@ -1,5 +1,5 @@
 ### Education
-- B.S in Software Convergence / B.A in French
+- B.S in Software Convergence / B.A in French, HUFS
 
 ### Experience
 - 2019.01 ~ 2019.11 멋쟁이 사자처럼 7기
