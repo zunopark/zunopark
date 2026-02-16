@@ -1,5 +1,3 @@
-# JOONHO - Frontend & Smart TV Developer
-
 ## 👋 About Me
 Frontend Developer specializing in Smart TV streaming applications at SOOP. Passionate about building scalable, user-focused solutions across connected devices with a focus on streaming player architecture. Enthusiastic about automation, efficient development practices, and creating seamless experiences for millions of viewers.
 
