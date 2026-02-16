@@ -56,6 +56,5 @@ Frontend Developer specializing in Smart TV streaming applications at SOOP. Pass
 ### **Additional Skills**
 - English (Fluent)
 - Automation & workflow optimization
-- API integration and data analysis
 
 ---
